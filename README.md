@@ -325,18 +325,4 @@ git push origin feature-name
 
 ---
 
-# 📄 License
-
-This project is licensed under the **MIT License**.
-
----
-
-# 👨‍💻 Author
-
-**Parthasarathy**
-
-GitHub: https://github.com/parthasarathy27
-
----
-
 ⭐ If you like this project, don't forget to **Star** the repository!
